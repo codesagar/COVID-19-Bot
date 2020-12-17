@@ -1,0 +1,39 @@
+,keys,value
+0,0-10,1
+1,60-70,2
+2,70-100,3
+3,No fever (96°F-98.6°F),0
+4,Minor fever (98.6°F-102°F),2
+5,High fever (>102°F),5
+6,Don’t know,0
+7,Running nose,1
+8,Cough,5
+9,Sore throat,3
+10,Sneezing,1
+11,Shortness of breath,5
+12,Difficulty in breathing,5
+13,Continuous pain in the chest,5
+14,Hypertension(BP),1
+15,Diabetes,1
+16,Asthma,2
+17,Heart disease,2
+18,Kidney disease,1
+19,None of these,0
+20,Health worsened,2
+21,No change in health,1
+22,10-20,1
+23,20-50,2
+24,More than 50,3
+25,Vomiting,2
+26,Blood vomiting,5
+27,Diarrhea,2
+28,Weakness,2
+29,Chemotherapy,2
+30,Radiotherapy,2
+31,TB,3
+32,Pneumonia,3
+33,Organ transplant,2
+34,Low immunity,2
+35,Medium immunity,1
+36,Good immunity,0
+37,Body pain,3

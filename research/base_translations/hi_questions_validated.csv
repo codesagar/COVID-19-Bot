@@ -1,0 +1,17 @@
+tag,type,question,hi_question,options,hi_options
+age,text,Enter your age,अपनी आयु दर्ज करें,text,['टेक्स्ट']
+gender,single,Select your gender,अपना लिंग चुनें,"Male,Female,Other","['पुरुष', 'महिला', 'अन्य']"
+fever,single,Do you have fever?,क्या आपको बुखार है?,"No Fever (96°F-98.6°F),Minor Fever (98.6°F-102°F),High Fever (>102°F),Don’t Know","['कोई बुखार नहीं (96°F - 98.6°F)', 'साधारण बुखार (98.6°F - 102°F)', 'तेज बुखार (> 102 °F)', 'पता नहीं']"
+cold,multiple,Any cold related symptoms?,सर्दी या जुकाम संबंधित लक्षण? (सारे उचित विकल्प चुन कर सेंड बटन दबाये),"running nose,cough,sore throat,sneezing,none of these","['बहता नाक', 'खांसी', 'गले में खराश', 'छींक आना', 'इनमें से कोई नहीं']"
+breathing,multiple,Any breathing related challenges?,फेफड़े या सांस लेने से संबंधित चुनौतियां? (सारे उचित विकल्प चुन कर सेंड बटन दबाये),"Shortness of breath,Difficulty in breathing,Continuous pain in the chest, none of these","['सांस फूलना', 'सांस लेने में दिक्कत', 'छाती में सतत दर्द', 'इनमें से कोई नहीं']"
+travel,single,Have you or your closed one travelled internationally in last 1 month?,आप या आपके साथ रहने वाले लोग ने पिछले 1 महीने में विदेश यात्रा की है?,"Yes,No","['हाँ', 'नहीं']"
+exposure,single,Did you come in close contact with any infected person or someone who travelled abroad recently,"संभावित तौर पे क्या आप किसी भी संक्रमित व्यक्ति या हाल ही में विदेश से आये हुए 
+व्यक्ति के निकट संपर्क में आये हो?","Yes,No","['हाँ', 'नहीं']"
+ailments,multiple,Are you suffering from long term ilness?,लंबे समय की कोई बीमारी से पीड़ित हैं? (सारे उचित विकल्प चुन कर सेंड बटन दबाये),"Hypertension(BP),Diabetes,Asthma,Heart disease,Kidney disease, none of these","['ब्लड प्रेशर (BP)', 'डायबिटीज', 'दमा', 'दिल की बीमारी', 'गुर्दे की बीमारी', 'इनमें से कोई नहीं']"
+progress,single,How has your condition changed over last 2 days?,पिछले 2 दिन में आपका स्वास्थ्य कैसा रहा है?,"Health improved,Health worsened, No change in health","['स्वास्थ्य में सुधार', 'स्वास्थ्य खराब हो गई', 'स्वास्थ्य में कोई परिवर्तन नहीं']"
+contact,single,Before the lockdown how many people do you meet daily?,लॉकडाउन से पहले आप दैनिक तौर पे कितने लोगों से मिलते थे?,"less than 5,5-10,10-20,more than 20","['5 से कम', '5-10', '10-20', '20 से अधिक']"
+nature,single,Select your profession,आप का पेशा,"['Student', 'Housewife', 'un-employeed', 'Business Owner', 'Retail shop', 'IT job', 'bank', 'teacher', 'sales/marketing', 'doctor/medical staff', 'Others']","['विद्यार्थी', 'गृहिणी', 'बेरोजगार', 'व्यापारी', 'किरकोळ दुकाने', 'आयटी', 'बँक', 'शिक्षक', 'विक्री / विपणन', 'डॉक्टर / मेडिकल कर्मचारी', ' अन्य']"
+profession,text,Describe your profession,आपके पेशा का वर्णन करें,text,['टेक्स्ट']
+extra,multiple,Do u have any below symotoms?,इनमे से कोई लक्षण? (सारे उचित विकल्प चुन कर सेंड बटन दबाये),"vomiting,blood vomiting,Diarrohea,weakness,none of these","['उल्टी', 'खून उल्टी', 'दस्त', 'दुर्बलता', 'इनमें से कोई नहीं']"
+medication,multiple,Are you taking medications for any of the following?,आप निम्न में से किसी के लिए दवा ले रहे हैं? (सारे उचित विकल्प चुन कर सेंड बटन दबाये),"Chemotherapy, Radiotherapy, TB, Pneumonia, Organ transplant","['कीमोथेरपी', 'रेडियोथेरेपी', 'टीबी', 'निमोनिया', 'अंग प्रत्यारोपण']"
+immunity,single,How would you guage your immunity?,अनुमान से आप की रोग प्रतिरोधक शक्ति कैसी है?,"Low Immunity, Medium Immunity, Good immunity","['कम रोग प्रतिरोधक शक्ति', 'साधारण रोग प्रतिरोधक शक्ति', 'अच्छी रोग प्रतिरोधक शक्ति']"

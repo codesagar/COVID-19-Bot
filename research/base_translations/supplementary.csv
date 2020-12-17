@@ -1,0 +1,7 @@
+tag,question,hi_question,type,options,hi_options
+profession,Select nature of your profession,आपके व्यवसाय की प्रकृति,single,"Student, Housewife, un-employeed, Business Owner, Retail shop, IT job, bank, teacher, sales/marketing, doctor/medical staff, Others","
+छात्र, 
+गृहिणी, 
+बेरोज़गार, व्यापारी, रिटेल स्टोर, IT, 
+बैंक, शिक्षक, सेल्स / मार्केटिंग, डॉक्टर / मेडिकल स्टाफ, अन्य "
+job,Describe your profession,अपने पेशे का वर्णन करें,text,text,text

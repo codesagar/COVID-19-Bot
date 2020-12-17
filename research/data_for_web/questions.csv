@@ -1,0 +1,15 @@
+tag,question,type,options
+age,Enter your age,text,text answer
+gender,Select your gender,single,"Male,Female,Other"
+fever,Do you have fever?,single,"No Fever (96°F-98.6°F),Low Fever (98.6°F-102°F),Heavy Fever (>102°F),Don’t Know"
+cold,Any cold related symptoms?,multiple,"running nose,cough,sore throat,sneezing,none of these"
+breathing,Any breathing related challenges?,multiple,"Shortness of breath,Difficulty in breathing,Continuous pain in the chest, none of these"
+travel,Have you or your closed one travelled internationally in last 1 month?,single,"Yes,No"
+exposure,Did you come in close contact with any infected person or someone who travelled abroad recently,single,"Yes,No"
+ailments,Are you suffering from long term ilness?,multiple,"Hypertension(BP),Diabetes,Asthma,Heart disease,Kidney disease, none of these"
+progress,How has your condition changed over last 2 days?,single,"Health improved,Health worsened, No change in health"
+contact,Before the lockdown how many people do you meet daily?,single,"less than 5,5-10,10-20,more than 20"
+occupation,Please mention your occupation,text,text answer
+extra,Do u have any below symotoms?,multiple,"vomiting,blood vomiting,Diarrohea,weakness,none of these"
+medication,Are you taking medications for any of the following?,multiple,"Chemotherapy, Radiotherapy, TB, Pneumonia, Organ transplant"
+immunity,How would you guage your immunity?,single,"Low Immunity, Medium Immunity, Good immunity"
