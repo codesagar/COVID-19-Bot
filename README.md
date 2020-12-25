@@ -7,19 +7,12 @@
 HTML, CSS, JavaScript
 
 ## Backend
-Azure App Service - running Python Flask
-Azure CosmosDB - using PyMongo connector
-Static content cached in CDN
+- Azure App Service - running Python Flask
+- Azure CosmosDB - using PyMongo connector
+- Static content cached in CDN
 
 ## Supported Languages
-1. English
-2. Hindi
-3. Gujarati
-4. Marathi
-5. Tamil
-6. Telugu
-7. Kannada
-8. Bangla
+English, Hindi, Gujarati, Marathi, Tamil, Telugu, Kannada, Bangla
 
 ## Thanks to volunteers for Indic languages support.
 Siddhi, Sathyanarayana, Bhavana, Aishwarya, Shivam
