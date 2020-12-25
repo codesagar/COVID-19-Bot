@@ -1,4 +1,4 @@
-# COVID-19-Bot for risk assessment app (English + 7 Indic languages)
+# COVID-19-Bot for risk assessment (English + 7 Indic languages)
 
 **Note - Calling this application as AI Bot would be a gross overstatement. There are no neural networks powering this bot**
 **The intent was to make a quick end-to-end solution with an intuitive interface for easier interactions**
